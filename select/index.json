@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フジファブリック 『たりないすくない feat.幾田りら』",
+  "base_artist": "フジファブリック",
+  "createdAt": "2026-02-09T14:55:45.840057Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たりないすくない feat. 幾田りら",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_01_たりないすくない_feat._幾田りら_フジファブリック.txt"
+    }
+  ]
+}
